@@ -18,7 +18,7 @@
         android:id="@+id/priceLabel"
         android:textSize="45sp"
         android:textStyle="bold"
-        android:textColor="@color/fontColour"
+        android:textColor="@color/white"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"/>
 
